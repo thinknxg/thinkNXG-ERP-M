@@ -547,13 +547,13 @@ scheduler_events = {
 	],
 }
 
-email_brand_image = "assets/erpnext/images/erpnext-logo.jpg"
+email_brand_image = "assets/erpnext/images/thinknxg-erp-logo.jpg"
 
 default_mail_footer = """
 	<span>
 		Sent via
-		<a class="text-muted" href="https://frappe.io/erpnext?source=via_email_footer" target="_blank">
-			ERPNext
+		<a class="text-muted" href="https://thinknxg.com?source=via_email_footer" target="_blank">
+			thinkNXG ERP
 		</a>
 	</span>
 """
